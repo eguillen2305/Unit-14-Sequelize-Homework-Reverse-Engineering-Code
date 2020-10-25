@@ -4,11 +4,6 @@
 [![Javascript](https://img.shields.io/badge/Javascript-JS-blue.svg)](https://www.w3schools.com/Js/)
 [![Node.js](https://img.shields.io/badge/Node.js-Node-green.svg)](https://nodejs.org/en/)
 
-
-## Summary
-
-Back end and front application to track and add burgers eaten. Uses node,inquirer, and MySQL
-https://eatdaburger2305.herokuapp.com/
  
 ## User Story
 ```sh
@@ -36,11 +31,7 @@ run node server.js
 Access the site by typing localhost path in your chrome browser
 
 ## Technology Used
- ![](http://williamavasquez.herokuapp.com/img/js.png)
- 
- ![](http://williamavasquez.herokuapp.com/img/node.png)
- 
-
+Javascript
 
 ## Author
 eguillen2035
