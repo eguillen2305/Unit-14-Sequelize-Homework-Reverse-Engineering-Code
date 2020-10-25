@@ -15,9 +15,7 @@ I WANT a walk-through of the codebase
 SO THAT I can use it as a starting point for a new project
 
 ```
-![screenshot1](/screenshot/Screenshot%201.png)
 
-![screenshot1](views/assets/img/burger.png)
 
 ## How to use the Application
 
